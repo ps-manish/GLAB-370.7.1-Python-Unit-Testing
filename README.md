@@ -23,7 +23,7 @@ if __name__ == '__main__':
 In this code, we define a function called 'add_numbers' that takes two parameters a and b and returns their sum. We also define a unit test class called TestAddNumbers that inherits from unittest.TestCase and has a single test method called test_add_numbers that checks the result of the add_numbers function for two input values 3 and 5. We use the assertEqual assertion to check that the result of the function is equal to 8. Finally, we use the unittest.main() function to run the test and observe the results.
 
 
-## PArt 2
+## Part 2
 
 ```
 import unittest
